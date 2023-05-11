@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Moksh parashar</h1>
 <h3 align="center">Avid programmer</h3>
 
-<img align='right' alt='programming' width='400' src='https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif'>
+<img align='right' alt='programming' width='200' src='https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokshparashar&label=Profile%20views&color=0e75b6&style=flat" alt="mokshparashar" /> </p>
 

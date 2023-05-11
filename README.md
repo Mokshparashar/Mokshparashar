@@ -1,4 +1,4 @@
-
+<img align='center' width='100%' height='300' src='https://thestrive.co/wp-content/uploads/2023/01/mike-tyson-discipline-quote.jpg' alt='discipline'>
 <h1 align="center">Hi 👋, I'm Moksh parashar</h1>
 <h3 align="center">Avid programmer</h3>
 

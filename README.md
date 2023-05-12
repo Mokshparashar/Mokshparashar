@@ -4,7 +4,7 @@
 
 <img align='right' alt='programming' width='200' src='https://media.tenor.com/C9qukZqPPS4AAAAC/coding-typing.gif'>
 
-<p align="left" style="margin-top:100px;"> <img src="https://komarev.com/ghpvc/?username=mokshparashar&label=Profile%20views&color=0e75b6&style=flat" alt="mokshparashar" /> </p>
+<p align="left" margin-top='100'> <img src="https://komarev.com/ghpvc/?username=mokshparashar&label=Profile%20views&color=0e75b6&style=flat" alt="mokshparashar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/parasharmoksh" target="blank"><img src="https://img.shields.io/twitter/follow/parasharmoksh?logo=twitter&style=for-the-badge" alt="parasharmoksh" /></a> </p>
 

@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on full stack web development<br>Learning react<br>Ask me about JAVASCRIPT
+"Hey there I am a Avid developer Working on full stack web development<br>currently my focus is on mastering react<br>You can ask me about JAVASCRIPT<br>Currently I am looking for a startup environment where I can utilize my skills."
 
 
 ## 🌐 Socials:

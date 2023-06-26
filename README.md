@@ -1,6 +1,5 @@
 # 💫 About Me:
-"Hey there I am a Avid developer Working on full stack web development<br>currently my focus is on mastering react<br>You can ask me about JAVASCRIPT<br>Currently I am looking for a startup environment where I can utilize my skills."
-
+"Hey there I am a Avid developer Working on full stack web development."
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_ammoksh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksh-parashar-654619222/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ParasharMoksh) 
@@ -26,11 +25,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mokshparashar&theme=algolia&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshparashar&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mokshparashar&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@ParasharMoksh)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mokshparashar&limit=5&theme=dark&combine_all_yearly_contributions=true)

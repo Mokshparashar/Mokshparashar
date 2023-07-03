@@ -21,8 +21,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23000000.svg?style=plastic&logo=mongoose&logoColor=brown) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mokshparashar&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mokshparashar&theme=algolia&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokshparashar&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
